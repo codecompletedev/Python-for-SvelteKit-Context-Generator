@@ -20,14 +20,7 @@ git clone https://github.com/yourusername/python-for-sveltekit-context-generator
 cd python-for-sveltekit-context-generator
 ```
 
-2. Create a virtual environment (recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
-
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
